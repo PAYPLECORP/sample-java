@@ -11,11 +11,8 @@ pageEncoding="UTF-8"%>
     />
     <title>Insert title here</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <!-- <script src="https://testcpay.payple.kr/js/cpay.payple.1.0.0.js"></script> -->
-    <!-- TEST (PCD_CPAY_VER : 1.0.0) -->
-    <!-- <script src="https://testcpay.payple.kr/js/cpay.payple.1.0.1.js"></script> -->
-    <script src="http://dev.testcpay.payple.kr/js/127.0.0.1.cpay.payple.1.0.1.js"></script>
     <!-- TEST (PCD_CPAY_VER : 1.0.1) -->
+    <script src="https://testcpay.payple.kr/js/cpay.payple.1.0.1.js"></script>
     <script>
       $(document).ready(function () {
         //#########################################################################################################################################################################
