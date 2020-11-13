@@ -67,7 +67,7 @@ public class TestController {
         JSONParser jsonParser = new JSONParser();
         try {
 
-            String pURL = "http://testcpay.payple.kr/php/auth.php";
+            String pURL = "https://testcpay.payple.kr/php/auth.php";
             String cst_id = "test";
             String cust_key = "abcd1234567890";
             String pcd_refund_key = "a41ce010ede9fcbfb3be86b24858806596a9db68b79d138b147c3e563e1829a0";
